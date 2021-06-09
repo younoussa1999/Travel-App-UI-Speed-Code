@@ -1,6 +1,6 @@
 # Travel App - Flutter UI
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://youtu.be/p_krWIgCm4s)
 
 **Packages we are using:**
 
